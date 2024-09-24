@@ -75,3 +75,34 @@
 - **Description**: A machine learning model for recognizing and classifying human activities based on sensor data.
 - **Repository**: [ML Project: Activity Recognition](https://github.com/ammyjutt/ML_Project_Activity_Recognition)
 
+<br>
+
+  ## Specializations and Courses
+
+I have completed the following specializations from Stanford University and DeepLearning.AI through Coursera:
+
+### 1. Machine Learning Specialization (3 Courses - Approx 2 Months)
+- Supervised Machine Learning
+- Advanced ML Algorithms
+- Unsupervised Machine Learning
+- ![Certificate](<certificate_image_url_here>)  
+  [Verify Certificate](<certificate_verification_link_here>)
+
+### 2. Deep Learning Specialization (5 Courses - Approx 4 Months)
+- Neural Networks and Deep Learning
+- Hyper-parameters Tuning
+- Structuring ML Projects
+- Convolutional Neural Networks
+- Sequence Models
+- ![Certificate](<certificate_image_url_here>)  
+  [Verify Certificate](<certificate_verification_link_here>)
+
+### 3. Natural Language Processing Specialization (4 Courses - Approx 3 Months)
+- NLP with Vector Spaces
+- NLP with Sequence Models
+- NLP with Probabilistic Models
+- NLP with Attention Models
+- ![Certificate](<certificate_image_url_here>)  
+  [Verify Certificate](<certificate_verification_link_here>)
+
+
