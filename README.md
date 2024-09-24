@@ -24,6 +24,7 @@
 
 <!-- Jupyter Notebook Icon -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter Notebook logo" style="vertical-align: middle;" />
+  <img width="12" />
 
   
 
