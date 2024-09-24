@@ -3,9 +3,8 @@
 ###
 
 <div align="center">
-  <!-- Corrected GitHub stats and languages links with proper username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadamir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadamir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadinzamamamjad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadinzamamamjad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -17,6 +16,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch logo" style="vertical-align: middle;" />
   <img width="12" />
+
+  
+  <!-- Anaconda Icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda logo" style="vertical-align: middle;" />
+<img width="12" />
+
+<!-- Jupyter Notebook Icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter Notebook logo" style="vertical-align: middle;" />
+
+  
   <!-- Langchain logo with adjusted height and vertical alignment -->
   <img src="langchain.svg" height="50" alt="Langchain logo" style="vertical-align: middle;" />
   <img width="12" />
