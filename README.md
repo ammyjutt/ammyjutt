@@ -26,9 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter Notebook logo" style="vertical-align: middle;" />
 
   
-  <!-- Langchain logo with adjusted height and vertical alignment -->
-  <img src="langchain.svg" height="50" alt="Langchain logo" style="vertical-align: middle;" />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" style="vertical-align: middle;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" style="vertical-align: middle;" />
