@@ -56,28 +56,10 @@
 
 <br clear="both">
 
+<h1> Completed Courses & Projects </h1>
 
-## Projects
 
-### 1. CycleGAN Model for Image Translation
-- **Description**: A deep learning model implementing CycleGAN for unpaired image-to-image translation tasks.
-- **Repository**: [CycleGAN Model for Image Translation](https://github.com/ammyjutt/CycleGAN_Model_For_Image_Translation)
 
-### 2. Aerial Image Segmentation
-- **Description**: A project focused on semantic segmentation of aerial imagery using deep learning techniques.
-- **Repository**: [Aerial Image Segmentation](https://github.com/ammyjutt/Aerial_Image_Segmentation)
-
-### 3. AI Keep Notes Taking App
-- **Description**: An AI-powered note-taking app, designed to help users manage and organize their tasks efficiently.
-- **Repository**: [AI Keep Notes Taking App](https://github.com/ammyjutt/AI-Keep-Notes-Taking-App)
-
-### 4. Machine Learning Project: Activity Recognition
-- **Description**: A machine learning model for recognizing and classifying human activities based on sensor data.
-- **Repository**: [ML Project: Activity Recognition](https://github.com/ammyjutt/ML_Project_Activity_Recognition)
-
-<br>
-
-  ## Specializations and Courses
 
 I have completed the following specializations from Stanford University and DeepLearning.AI through Coursera:
 
@@ -102,6 +84,29 @@ I have completed the following specializations from Stanford University and Deep
 - NLP with Probabilistic Models
 - NLP with Attention Models
 - ![Certificate](resources/NLP_Cert.png)  
+
+
+## Projects
+
+### 1. CycleGAN Model for Image Translation
+- **Description**: A deep learning model implementing CycleGAN for unpaired image-to-image translation tasks.
+- **Repository**: [CycleGAN Model for Image Translation](https://github.com/ammyjutt/CycleGAN_Model_For_Image_Translation)
+
+### 2. Aerial Image Segmentation
+- **Description**: A project focused on semantic segmentation of aerial imagery using deep learning techniques.
+- **Repository**: [Aerial Image Segmentation](https://github.com/ammyjutt/Aerial_Image_Segmentation)
+
+### 3. AI Keep Notes Taking App
+- **Description**: An AI-powered note-taking app, designed to help users manage and organize their tasks efficiently.
+- **Repository**: [AI Keep Notes Taking App](https://github.com/ammyjutt/AI-Keep-Notes-Taking-App)
+
+### 4. Machine Learning Project: Activity Recognition
+- **Description**: A machine learning model for recognizing and classifying human activities based on sensor data.
+- **Repository**: [ML Project: Activity Recognition](https://github.com/ammyjutt/ML_Project_Activity_Recognition)
+
+<br>
+
+
   
 
 
