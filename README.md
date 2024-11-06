@@ -93,7 +93,7 @@ I have completed the following specializations from Stanford University and Deep
 - ![Certificate](resources/NLP_Cert.png)  
 
 
-## Projects
+## AI Projects
 
 ### 1. CycleGAN Model for Image Translation
 - **Description**: A deep learning model implementing CycleGAN for unpaired image-to-image translation tasks.
