@@ -70,26 +70,26 @@
 
 I have completed the following specializations from Stanford University and DeepLearning.AI through Coursera:
 
-### 1. Machine Learning Specialization (3 Courses - Approx 2 Months) [Verify Certificate](https://coursera.org/share/ce17284074fe18f6d2ef82c8b2176e7e)
-- Supervised Machine Learning
-- Advanced ML Algorithms
-- Unsupervised Machine Learning
+### 1. Machine Learning Specialization (Total 3 Courses - Approx 2 Months) [Verify Certificate](https://coursera.org/share/ce17284074fe18f6d2ef82c8b2176e7e)
+Course 1 - Supervised Machine Learning
+Course 2 - Advanced ML Algorithms
+Course 3- Unsupervised Machine Learning
 - ![Certificate](resources/ML_Cert.png)  
 
-### 2. Deep Learning Specialization (5 Courses - Approx 4 Months) [Verify Certificate](https://coursera.org/share/99133df357346e1d48912e0bb2a41094)
-- Neural Networks and Deep Learning
-- Hyper-parameters Tuning
-- Structuring ML Projects
-- Convolutional Neural Networks
-- Sequence Models
+### 2. Deep Learning Specialization (Total 5 Courses - Approx 4 Months) [Verify Certificate](https://coursera.org/share/99133df357346e1d48912e0bb2a41094)
+Course 4 - Neural Networks and Deep Learning
+Course 5 - Hyper-parameters Tuning
+Course 6 - Structuring ML Projects
+Course 7 - Convolutional Neural Networks
+Course 8 - Sequence Models
 - ![Certificate](resources/DL_Cert.png)  
   
 
 ### 3. Natural Language Processing Specialization (4 Courses - Approx 3 Months) [Verify Certificate](https://coursera.org/share/5351448580bf8a4a23cd5b72add8abdc)
-- NLP with Vector Spaces
-- NLP with Sequence Models
-- NLP with Probabilistic Models
-- NLP with Attention Models
+Course 9 - NLP with Vector Spaces
+Course 10 - NLP with Sequence Models
+Course 11 - NLP with Probabilistic Models
+Course 12 - NLP with Attention Models
 - ![Certificate](resources/NLP_Cert.png)  
 
 
