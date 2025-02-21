@@ -16,6 +16,9 @@
 
 ###
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ammyjutt&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <h3 align="center">Languages and Tools</h3>
 <div align="center">
   <!-- Added TensorFlow, PyTorch, Langchain, NumPy, Pandas logos with vertical alignment -->
