@@ -16,7 +16,9 @@
 
 ###
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ammyjutt&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Amir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ammyjutt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <h3 align="center">Languages and Tools</h3>
