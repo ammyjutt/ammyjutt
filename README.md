@@ -19,8 +19,6 @@
 
 [![Amir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ammyjutt&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
 <h3 align="center">Languages and Tools</h3>
 <div align="center">
   <!-- Added TensorFlow, PyTorch, Langchain, NumPy, Pandas logos with vertical alignment -->
